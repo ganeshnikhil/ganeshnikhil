@@ -5,8 +5,11 @@
 _______________________________________________________________________________________________________________________________________________________________________
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ganesh nikhil</h1>
 <h3 align="center">I'm a passionate tech enthusiast from India.</h3>
+
 ❏ 🌱 I’m currently learning **DSA and DBMS**
+
 ❏ 👯 I’m looking to collaborate on **React and Ai**
+
 ❏ ✉️ You can contact me at ganeshnikhil124@gmail.com
 _______________________________________________________________________________________________________________________________________________________________________
 
