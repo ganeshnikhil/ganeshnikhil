@@ -17,6 +17,7 @@ ________________________________________________________________________________
 Programming Languages:
 <p style="display: flex; width: 90%; justify-content: space-between; align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascriipt" width="40",height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199768277-777c1681-61cc-461a-b2f7-432f57b7f825.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> </a> 
