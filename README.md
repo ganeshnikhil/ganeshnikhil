@@ -19,7 +19,9 @@ Programming Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascriipt" width="40",height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" width="40",height="40"/> </a>
- <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="40" height="40"/> </a>  
+ <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="40" height="40"/> </a>
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" widhth=40 height=40/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width=40 height=40/> </a>
 <a href="https://www.learn-c.org" target="_blank" rel="noreferrer"> <img strc="https://icons8.com/icon/40670/c-programming" alt="c" widht=40 height=40/> </a>
 
   
