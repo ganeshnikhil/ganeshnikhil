@@ -5,13 +5,11 @@ ________________________________________________________________________________
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
 <br>"BE A Warrior”
 
-❏ 🔭 I’m currently Adminstrator @ [Critic Design](https://criticdesigns.com/)
-
 ❏ 🌱 I’m currently learning **DSA and DBMS**
 
 ❏ 👯 I’m looking to collaborate on **React and Ai**
 
-❏ ✉️ You can contact me at bhavya@crito.design
+❏ ✉️ You can contact me at ganeshnikhil124@gmail.com
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## Known Languages and Tools:
