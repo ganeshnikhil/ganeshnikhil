@@ -25,6 +25,7 @@ Programming Languages:
 Tools and Softwares:
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" width="40" height="40"/> </a>
+<a  href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="sql" width=40 height=40/> </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/CyberWarrior743/CyberWarrior743/assets/80274814/34886d4c-a619-4a5c-9154-615363e78f24" alt="framer" width="40" height="40"/> </a>
