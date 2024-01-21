@@ -3,9 +3,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 _______________________________________________________________________________________________________________________________________________________________________
-“Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
-<br>"BE A Warrior”
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhavya</h1>
+<h3 align="center">I'm a passionate Front End Web Developer from India.</h3>
 ❏ 🌱 I’m currently learning **DSA and DBMS**
 
 ❏ 👯 I’m looking to collaborate on **React and Ai**
