@@ -23,7 +23,7 @@ Programming Languages:
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" widhth=40 height=40/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel = "noreferrer"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width=40 height=40/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" widht=40 height=40/> </a>
-<a href="https://www.learn-c.org" target="_blank" rel="noreferrer"> <img strc="https://img.icons8.com/color/48/000000/c.png" alt="c" widht=40 height=40/> </a>
+
 
   
 Tools and Softwares:
