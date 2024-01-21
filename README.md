@@ -20,7 +20,7 @@ Programming Languages:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascriipt" width="40",height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" width="40",height="40"/> </a>
  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="40" height="40"/> </a>  
-<a href="https://www.c.om" target="_blank" rel="noreferrer"> <img strc="https://icons8.com/icon/shQTXiDQiQVR/c-programming" alt="c" widht=40 height=40/> </a>
+<a href="https://www.c.om" target="_blank" rel="noreferrer"> <img strc="https://icons8.com/icon/40670/c-programming" alt="c" widht=40 height=40/> </a>
 
   
 Tools and Softwares:
