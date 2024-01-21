@@ -3,8 +3,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 _______________________________________________________________________________________________________________________________________________________________________
-![Pink and Purple Professional LinkedIn Banner (1)](https://github.com/CyberWarrior743/CyberWarrior743/assets/80274814/86665b44-60ad-4450-9e1b-64f1b8a7b0fb)
-
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
 <br>"BE A Warrior”
 
