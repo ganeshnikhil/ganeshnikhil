@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ml and dsa <br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ml and dsa <br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning dsa and ml <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
