@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ganeshnikhil&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### typing racer 
+### typing racer Score card..
 <a href="https://data.typeracer.com/pit/profile?user=cython_boy&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=cython_boy" border="0" alt="TypeRacer.com scorecard for user cython_boy"/></a>
 ___________________________________________________________________________________________________________________________________
 ## Snake Eating my Contribution graph:
