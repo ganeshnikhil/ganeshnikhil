@@ -83,5 +83,4 @@
     <img src="https://data.typeracer.com/misc/badge?user=cython_boy" border="0" alt="TypeRacer Scorecard" />
   </a>
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
