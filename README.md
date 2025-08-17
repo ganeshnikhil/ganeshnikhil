@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/ganesh-nikhil-068470241/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /></a>
   <a href="https://discord.com/"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" /></a>
   <a href="https://gitlab.com/"><img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&color=FC6D26&logoColor=white&style=for-the-badge" height="25" alt="GitLab" /></a>
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@cythonboy"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" /></a>
   <a href="https://medium.com/@ganeshnikhil124"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="25" alt="Medium" /></a>
 </div>
 
