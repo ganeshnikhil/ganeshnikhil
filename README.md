@@ -143,6 +143,7 @@ ________________________________________________________________________________
 
 ## 🐍 Contribution Snake
 <div align="center">
+  
   ![snake gif](github-contribution-grid-snake-dark.svg)
 </div>
 
