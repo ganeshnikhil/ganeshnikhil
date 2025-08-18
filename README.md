@@ -83,81 +83,25 @@
 
 ---
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  </a>
-  <a href="https://www.kernel.org/linux.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40"/>
-  </a>
-  <a href="https://www.anaconda.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
-  </a>
-  <a href="https://jupyter.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  </a>
-  <a href="https://www.canva.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  </a>
-  <a href="https://numpy.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-  </a>
-  <a href="https://www.debian.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40"/>
-  </a>
-  <a href="https://cmake.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="25"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="25"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" height="25"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" height="25"/>
 </p>
 
 
