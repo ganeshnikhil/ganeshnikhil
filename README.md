@@ -67,8 +67,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=ganeshnikhil&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
----
-## 🔝 Contribution Graph
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ganeshnikhil&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ganeshnikhil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
