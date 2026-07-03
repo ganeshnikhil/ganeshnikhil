@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://gitfut.com/ganeshnikhil">
-    <img src="https://gitfut.com/ganeshnikhil.png" alt="My GitFut card" width="400" />
+    <img src="https://gitfut.com/ganeshnikhil.png" alt="My GitFut card" width="300" />
   </a>
 </div>
 
