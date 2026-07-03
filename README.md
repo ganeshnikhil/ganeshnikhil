@@ -10,6 +10,9 @@
 - 💬 Ask me about **anything tech-related**  
 - ⚡ Fun fact: _“Code, Coffee, Repeat ☕”_
 
+
+[![My GitFut card](https://gitfut.com/ganeshnikhil.png)](https://gitfut.com/ganeshnikhil)
+
 ---
 
 ## 🌐 Socials
