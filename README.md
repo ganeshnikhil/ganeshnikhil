@@ -10,8 +10,9 @@
 - 💬 Ask me about **anything tech-related**  
 - ⚡ Fun fact: _“Code, Coffee, Repeat ☕”_
 
-
-[![My GitFut card](https://gitfut.com/ganeshnikhil.png)](https://gitfut.com/ganeshnikhil)
+<a href="https://gitfut.com/ganeshnikhil">
+  <img src="https://gitfut.com/ganeshnikhil.png" alt="My GitFut card" width="400" />
+</a>
 
 ---
 
